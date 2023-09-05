@@ -4,7 +4,8 @@
 ## Description
 558,870 Videos - 50 Types of Dynamic Gesture Recognition Data. The collecting scenes of this dataset include indoor scenes and outdoor scenes (natural scenery, street view, square, etc.). The data covers males and females. The age distribution ranges from teenager to senior. The data diversity includes multiple scenes, 50 types of dynamic gestures, 5 photographic angles, multiple light conditions, different photographic distances. This data can be used for dynamic gesture recognition of smart homes, audio equipments and on-board systems.
 
-For more details, please refer to the link: https://bit.ly/3UPhyQa
+For more details, please refer to the link: https://www.nexdata.ai/datasets/972?source=Github
+
 
 ## Data size
 558,870 videos, 219,660 videos were collected by laptop, 339,210 videos were collected by cellphone or iPad
