@@ -38,4 +38,4 @@ dynamic gestures of the left and right hand were collected at 5 photographic ang
 based on the accuracy of the gesture actions, the accuracy exceeds 97%; the accuracy of the video naming exceeds 97%; the accuracy of labels annotation is not less than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
